@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import React, { Component } from 'react';
 import s from './App.module.css';
 import Section from './components/Section/Section';
